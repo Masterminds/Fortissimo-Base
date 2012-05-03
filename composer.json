@@ -1,0 +1,13 @@
+{
+  "name": "Foo/Bar",
+  "description": "Fill me in!",
+  "require": {
+    "technosophos/fortissimo": "2.*"
+  },
+  "repositories": [
+    {
+      "type":"vcs",
+      "url": "https://github.com/technosophos/Fortissimo"
+    }
+  ]
+}
