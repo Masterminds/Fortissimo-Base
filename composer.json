@@ -2,12 +2,17 @@
   "name": "Foo/Bar",
   "description": "Fill me in!",
   "require": {
-    "technosophos/fortissimo": "2.*"
+    "technosophos/fortissimo": "2.*",
+    "Masterminds/Fortissimo-Twig": "dev-master"
   },
   "repositories": [
     {
       "type":"vcs",
       "url": "https://github.com/technosophos/Fortissimo"
+    },
+    {
+      "type":"vcs",
+      "url": "https://github.com/Masterminds/Fortissimo-Twig"
     }
   ]
 }
