@@ -1,6 +1,9 @@
 {
   "name": "Foo/Bar",
   "description": "Fill me in!",
+  "autoload": {
+    "psr-0": { "": "src/" }
+  },
   "require": {
     "technosophos/fortissimo": "2.*",
     "Masterminds/Fortissimo-Twig": "dev-master"
