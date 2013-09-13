@@ -5,14 +5,10 @@
     "psr-0": { "": "src/" }
   },
   "require": {
-    "technosophos/fortissimo": "2.*",
+    "masterminds/fortissimo": "dev-master",
     "Masterminds/Fortissimo-Twig": "dev-master"
   },
   "repositories": [
-    {
-      "type":"vcs",
-      "url": "https://github.com/technosophos/Fortissimo"
-    },
     {
       "type":"vcs",
       "url": "https://github.com/Masterminds/Fortissimo-Twig"
